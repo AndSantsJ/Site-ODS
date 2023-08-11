@@ -1,0 +1,8 @@
+.linha{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.coluna-50{
+    width: 50%;
+}
